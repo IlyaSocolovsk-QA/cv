@@ -1,2 +1,2 @@
-# cv_test
+# newcv
 Сайт-визика на HTML + CSS + JS
